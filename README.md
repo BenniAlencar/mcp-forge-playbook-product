@@ -1,4 +1,26 @@
-# mcp-forge-playbook-product
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:7000FF&height=200&section=header&text=MCP%20Forge%20Playbook&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Production%20Engineering%20Playbook%20for%20Sovereign%20MCP%20Servers&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+<br/>
+
+[![Status](https://img.shields.io/badge/Status-Production-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
+[![Stack](https://img.shields.io/badge/Stack-Markdown%2BPython-7000FF?style=for-the-badge)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-00C853?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Benni OS](https://img.shields.io/badge/Benni%20OS-benni--os.net-0D0D0D?style=for-the-badge)](https://benni-os.net)
+
+<br/>
+
+> **Production Engineering Playbook for Sovereign MCP Servers.**  
+> Part of the **Benni Master OS** sovereign engineering ecosystem.
+
+<br/>
+
+<img src="assets/demo.gif" alt="MCP Forge Playbook Animated Architecture Demo" width="100%"/>
+
+</div>
+
+---
 
 **Private.** MCP Forge Operator Playbook — 5-Part Audio Guide delivery page.
 
